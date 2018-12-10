@@ -1,5 +1,3 @@
-# Government Final Review Fall 2018
-
 ## Questions
 
 1. What are the congressional powers?
@@ -24,52 +22,83 @@
     1. Vice President
 
 8. What type of congressional committee is comprised of members of the Senate and the House?
-    1. 
+    1. Joint committee
 
 9.  What congressional committee is convened for only one thing?
+    1.  Select/Special committee
 
 10. What branch of government has the power to impeach and requires a majority vote?
+    1. House of Representatives
+
 
 11. 1 court, 9 justices per case is in which Court?  
-    a. Supreme Court
+    1.  Supreme Court
 
 12. What does the First Amendment protect?
+    1.  Freedom of speech
 
 13. Which amendment protects the criminally accused?
+    1. 6
 
-14. What were the 3 Civil War Amendments?
+15. What were the 3 Civil War Amendments?
+    1.  13,14,15
 
-15. What amendment was part of the Women’s Rights Movement?
+16. What amendment was part of the Women’s Rights Movement?
+    1.  19
 
-16. How were the accused person’s rights violated in Gideon v. Wainwright?
+17. How were the accused person’s rights violated in Gideon v. Wainwright?
+    1.  He was denied a court appointed attorney to represent him.
 
-17. What changes cause reapportionment?
+18. What changes cause reapportionment?
+    1.  Reapportionment is the process of deciding how many seats a state will have in the U.S. House of. Representatives when its population changes.
 
-18. What was the Supreme Court’s decision in McCulloch v. Maryland? 
+19. What was the Supreme Court’s decision in McCulloch v. Maryland? 
+    1.  established that the "Necessary and Proper" Clause of the U.S. Constitution
 
-19. What is a role of a political party?
+20. What is a role of a political party?
+    1.  The basic purpose of political parties is to nominate candidates for public office and to get as many of them elected as possible.
 
-20. The number and types of branches of the federal government are: 
+21. The number and types of branches of the federal government are: 
+    1.  The federal government is composed of three distinct branches: legislative, executive, and judicial
 
-What are the qualifications to be President of the United States?
+22. What are the qualifications to be President of the United States?
+    1.  No person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any person be eligible to that Office who shall not have attained to the Age of thirty-five Years, and been fourteen Years a Resident within the United States. 
 
-“Federalism” refers to:
+23. “Federalism” refers to:
+    1.  Relationship between the NATIONAL and STATE governments.
 
-What is the Supremacy Clause?
+24. What is the Supremacy Clause?
+    1.  The clause in United States Constitution’s Article VI, stating that all laws made furthering the Constitution and all treaties made under the authority of the United States are the “supreme law of the land.”
 
-The Miranda warning is given to whom?
+25. The Miranda warning is given to whom?
+    1.  Someone who is under arrest
 
-The decision that had the effect of ending prayer in school was: 
+26. The decision that had the effect of ending prayer in school was: 
+    1.  Engel v. Vitale
 
-If someone comes to your door and asks if he can search your house, what would your attorney most likely tell you to do?
+27. If someone comes to your door and asks if he can search your house, what would your attorney most likely tell you to do?
+    1.  Ask for a warrant.
 
-What are fundamental rights protected by the Constitution? 
+28. What are fundamental rights protected by the Constitution? 
+    1.  First Amendment: Freedom of religion, freedom of speech and the press, the right to assemble, the right to petition government.
+Second Amendment: The right to form a militia and to keep and bear arms.
+Third Amendment: The right not to have soldiers in one's home.
+Fourth Amendment: Protection against unreasonable search and seizure.
+Fifth Amendment: No one can be tried for a serious crime unless indicted (accused) by a grand jury. No one can be forced to testify against herself or himself. No one can be punished without due process of law. People must be paid for property taken for public use.
+Sixth Amendment: People have a right to a speedy trial, to legal counsel, and to confront their accusers.
+Seventh Amendment: People have the right to a jury trial in civil suits exceeding $20.
+Eighth Amendment: Protection against excessive bail (money to release a person from jail), stiff fines, and cruel and unusual punishment.
+Ninth Amendment: Because there are so many basic human rights, not all of them could be listed in the Constitution. This amendment means that the rights that are enumerated cannot infringe upon rights that are not listed in the Constitution.
+Tenth Amendment: Powers not given to the federal government by the Constitution belong to the states or the people.
 
-When the President vetoes new legislation, which options are left for trying to pass it?
+29. When the President vetoes new legislation, which options are left for trying to pass it?
+    1.  Congress can override a veto by passing the act by a two-thirds vote in both the House and the Senate.
 
-The Constitution gives the power to declare war to which branch of government?
+30. The Constitution gives the power to declare war to which branch of government?
+    1.  Executive
 
-American revolutionary leaders were deeply influenced by whose writing? 
+31. American revolutionary leaders were deeply influenced by whose writing? 
+    1.  John Locke
 
 What powers belong to both the national and the state governments?
 
