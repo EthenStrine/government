@@ -2,45 +2,54 @@
 
 ## Questions
 
-What are the congressional powers?
+1. What are the congressional powers?
+    1.  Congress has authority over financial and budgetary matters, through the enumerated power to lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States. The Constitution also grants Congress exclusively the power to appropriate funds
 
-How many members are in the House of Representatives? 
+2. How many members are in the House of Representatives? 
+    1. 435
 
-How many members are in the Senate?
+3. How many members are in the Senate?
+    1. 100
 
-How long is a House of Representatives term?
+4. How long is a House of Representatives term?
+    1. 2 years
 
-How long is a Senate term?
+5. How long is a Senate term?
+    1. 6 years
 
-The House of Representatives has who as the leader? 
+6. The House of Representatives has who as the leader? 
+    1. the speaker of the house
 
-The Senate has who as the leader?
+7. The Senate has who as the leader?
+    1. Vice President
 
-What type of congressional committee is comprised of members of the Senate and the House?
+8. What type of congressional committee is comprised of members of the Senate and the House?
+    1. 
 
-What congressional committee is convened for only one thing?
+9.  What congressional committee is convened for only one thing?
 
-What branch of government has the power to impeach and requires a majority vote?
+10. What branch of government has the power to impeach and requires a majority vote?
 
-1 court, 9 justices per case is in which Court?  
+11. 1 court, 9 justices per case is in which Court?  
+    a. Supreme Court
 
-What does the First Amendment protect?
+12. What does the First Amendment protect?
 
-Which amendment protects the criminally accused?
+13. Which amendment protects the criminally accused?
 
-What were the 3 Civil War Amendments?
+14. What were the 3 Civil War Amendments?
 
-What amendment was part of the Women’s Rights Movement?
+15. What amendment was part of the Women’s Rights Movement?
 
-How were the accused person’s rights violated in Gideon v. Wainwright?
+16. How were the accused person’s rights violated in Gideon v. Wainwright?
 
-What changes cause reapportionment?
+17. What changes cause reapportionment?
 
-What was the Supreme Court’s decision in McCulloch v. Maryland? 
+18. What was the Supreme Court’s decision in McCulloch v. Maryland? 
 
-What is a role of a political party?
+19. What is a role of a political party?
 
-The number and types of branches of the federal government are: 
+20. The number and types of branches of the federal government are: 
 
 What are the qualifications to be President of the United States?
 
