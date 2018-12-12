@@ -172,7 +172,7 @@ Article 6: (**Supremecy Clause**) The constitution is power
  7. Judicial Review
  8. Train v. City of New York 
  9.  Checks and balance
- 10. Veto	
+ 10. Veto - President's power to deny a bill becoming a law
  11. Separation of power	 
  12. Judicial review 		 
  13. Federalism			 
