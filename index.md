@@ -118,37 +118,42 @@ Tenth Amendment: Powers not given to the federal government by the Constitution 
     1.  POTUS
 
 35. Which case gave the Supreme Court the power of judicial review?
-    1.  
+    1.  Marbury v. Madison
 
 36. What is a bureaucracy?
+    1.  a system of government in which most of the important decisions are made by state officials rather than by elected representatives
 
 37. What are cabinet departments?
+    1.  to direct government policy and make decisions about national issues
 
 38. What did the spoils system do?
+    1.  trickle down jobs in the government
 
 39. What is the opinion of the Court called when all Supreme Court justices agree to it?
+    1.  Judicial Opinion
 
-40. The 4 freedoms include what? 
+41. The 4 freedoms include what? 
+    1.  
 
-41. Which of these practices has the Supreme Court judged to be constitutional?
+42. Which of these practices has the Supreme Court judged to be constitutional?
 
-42. In Schenck v. United States (1919), the Supreme Court ruled that the government could limit speech under what special circumstances?
+43. In Schenck v. United States (1919), the Supreme Court ruled that the government could limit speech under what special circumstances?
 
-43. In United States v. Lopez (1995), the court said that Congress could not ban firearms in schools because ________. 
+44. In United States v. Lopez (1995), the court said that Congress could not ban firearms in schools because ________. 
 
-44. According to the Fifth Amendment, when can an accused criminal be forced to testify against him or herself?
+45. According to the Fifth Amendment, when can an accused criminal be forced to testify against him or herself?
 
-45. When can illegally obtained evidence be used?
+46. When can illegally obtained evidence be used?
 
-46. What does incorporation mean?
+47. What does incorporation mean?
 
-47. Government is defined as: 
+48. Government is defined as: 
 
-48. Which of the following is the best description of federalism? 
+49. Which of the following is the best description of federalism? 
 
-49. What powers are reserved to the states?
+50. What powers are reserved to the states?
 
-50. The main responsibility for resolving conflicts between the states and the federal government lies with which of the following?
+51. The main responsibility for resolving conflicts between the states and the federal government lies with which of the following?
 
 ## Amendments
 Tell me what they all are: 1, 2, 3, 5, 7, 8, 10, 13, 14, 16, 18, 19, 20, 21, 24, 25, 26, 27			
@@ -161,12 +166,12 @@ Article 6: (**Supremecy Clause**) The constitution is power
  1. Plessy v. Ferguson 
  2. Chisolm v. Georgia 
  3. Civil Rights Act of 1964 
- 4. Lau v. Nichols 
+ 4. Lau v. Nichols - 
  5. Olmstead v. U.S. 
- 6. PGA Tour Inc. v. Martin 
+ 6. PGA Tour Inc. v. Martin - (2001) Sports tours had to provide special accomodations and arrangements for disabilties
  7. Judicial Review
  8. Train v. City of New York 
- 9. Checks and balance
+ 9.  Checks and balance
  10. Veto	
  11. Separation of power	 
  12. Judicial review 		 
