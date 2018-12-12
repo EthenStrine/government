@@ -103,12 +103,22 @@ Tenth Amendment: Powers not given to the federal government by the Constitution 
     1.  John Locke
 
 32. What powers belong to both the national and the state governments?
+    1.  Collect taxes.
+    2.  Build roads.
+    3.  Borrow money.
+    4.  Establish courts.
+    5.  Make and enforce laws.
+    6.  Charter banks and corporations.
+    7.  Spend money for the general welfare.
 
 33. What stops a filibuster?
+    1.  cloture
 
 34. Who is the commander in chief of the United States armed forces?
+    1.  POTUS
 
 35. Which case gave the Supreme Court the power of judicial review?
+    1.  
 
 36. What is a bureaucracy?
 
@@ -120,25 +130,25 @@ Tenth Amendment: Powers not given to the federal government by the Constitution 
 
 40. The 4 freedoms include what? 
 
-40. Which of these practices has the Supreme Court judged to be constitutional?
+41. Which of these practices has the Supreme Court judged to be constitutional?
 
-1. In Schenck v. United States (1919), the Supreme Court ruled that the government could limit speech under what special circumstances?
+42. In Schenck v. United States (1919), the Supreme Court ruled that the government could limit speech under what special circumstances?
 
-1. In United States v. Lopez (1995), the court said that Congress could not ban firearms in schools because ________. 
+43. In United States v. Lopez (1995), the court said that Congress could not ban firearms in schools because ________. 
 
-1. According to the Fifth Amendment, when can an accused criminal be forced to testify against him or herself?
+44. According to the Fifth Amendment, when can an accused criminal be forced to testify against him or herself?
 
-1. When can illegally obtained evidence be used?
+45. When can illegally obtained evidence be used?
 
-1. What does incorporation mean?
+46. What does incorporation mean?
 
-1. Government is defined as: 
+47. Government is defined as: 
 
-1. Which of the following is the best description of federalism? 
+48. Which of the following is the best description of federalism? 
 
-1. What powers are reserved to the states?
+49. What powers are reserved to the states?
 
-1. The main responsibility for resolving conflicts between the states and the federal government lies with which of the following?
+50. The main responsibility for resolving conflicts between the states and the federal government lies with which of the following?
 
 ## Amendments
 Tell me what they all are: 1, 2, 3, 5, 7, 8, 10, 13, 14, 16, 18, 19, 20, 21, 24, 25, 26, 27			
@@ -148,81 +158,46 @@ Article 6: (**Supremecy Clause**) The constitution is power
 
 ## Define: 
 
-Plessy v. Ferguson
+ 1. Plessy v. Ferguson 
+ 2. Chisolm v. Georgia 
+ 3. Civil Rights Act of 1964 
+ 4. Lau v. Nichols 
+ 5. Olmstead v. U.S. 
+ 6. PGA Tour Inc. v. Martin 
+ 7. Judicial Review
+ 8. Train v. City of New York 
+ 9. Checks and balance
+ 10. Veto	
+ 11. Separation of power	 
+ 12. Judicial review 		 
+ 13. Federalism			 
+ 14. Popular sovereignty
+ 15. Jurisdiction			 
+ 16. Preamble			 
+ 17. Articles				 
+ 18. Supremacy clause		 
+ 19. Precinct
+ 20. Political party 
+ 21. Bicameral legislature 
+ 22. Census Multiparty
+ 23. Redistricting 
+ 24. Gerrymandering 
+ 25. 27th Amendment 
+ 26. Third party 
+ 27. Electorate
+ 28. Select Committee 
+ 29. Labor Unions 
+ 30. Conference 
+ 31. Committee 
+ 32. Subcommittee
+ 33. Public 
+ 34. Opinion 
+ 35. Filibuster 
+ 36. Public Policy 
+ 37. President Pro Tempore 
+ 38. Joint Committee 
+ 39. Lobbying
 
-Chisolm v. Georgia
-
-Civil Rights Act of 1964
-
-Lau v. Nichols
-
-Olmstead v. U.S.
-
-PGA Tour Inc. v. Martin
-
-Judicial Review
-
-Train v. City of New York
-
-Checks and balances	
-
-Veto				
-
-Separation of power	
-
-Judicial review 		
-
-Federalism			
-
-Popular sovereignty
-
-Jurisdiction			
-
-Preamble			
-
-Articles				
-
-Supremacy clause		
-
-Precinct
-
-Political party
-
-Bicameral legislature
-
-Census
-
-Multiparty
-
-Redistricting
-
-Gerrymandering
-
-27th Amendment
-
-Third party
-
-Electorate
-
-Select Committee
-
-Labor Unions
-
-Conference Committee
-
-Subcommittee
-
-Public Opinion
-
-Filibuster
-
-Public Policy
-
-President Pro Tempore
-
-Joint Committee
-
-Lobbying 
 
 ## Essay
 ### 1:
