@@ -166,7 +166,7 @@ Article 6: (**Supremecy Clause**) The constitution is power
  1. Plessy v. Ferguson 
  2. Chisolm v. Georgia 
  3. Civil Rights Act of 1964 
- 4. Lau v. Nichols - 
+ 4. Lau v. Nichols - (1974) Public schools had to provide special instruction in English to immigrant students
  5. Olmstead v. U.S. 
  6. PGA Tour Inc. v. Martin - (2001) Sports tours had to provide special accomodations and arrangements for disabilties
  7. Judicial Review
