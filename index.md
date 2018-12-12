@@ -195,13 +195,12 @@ Article 6: (**Supremecy Clause**) The constitution is power
  30. Conference 
  31. Committee 
  32. Subcommittee
- 33. Public 
- 34. Opinion 
- 35. Filibuster 
- 36. Public Policy 
- 37. President Pro Tempore 
- 38. Joint Committee 
- 39. Lobbying
+ 33. Public Opinion - 
+ 34. Filibuster 
+ 35. Public Policy - the choices the goverenment makes and the action it take in reponse it takes for a particular issue
+ 36. President Pro Tempore 
+ 37. Joint Committee 
+ 38. Lobbying - Contacting a public official to pursade the public official to support the group's interests.
 
 
 ## Essay
