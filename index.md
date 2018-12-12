@@ -102,48 +102,51 @@ Tenth Amendment: Powers not given to the federal government by the Constitution 
 31. American revolutionary leaders were deeply influenced by whose writing? 
     1.  John Locke
 
-What powers belong to both the national and the state governments?
+32. What powers belong to both the national and the state governments?
 
-What stops a filibuster?
+33. What stops a filibuster?
 
-Who is the commander in chief of the United States armed forces?
+34. Who is the commander in chief of the United States armed forces?
 
-Which case gave the Supreme Court the power of judicial review?
+35. Which case gave the Supreme Court the power of judicial review?
 
-What is a bureaucracy?
+36. What is a bureaucracy?
 
-What are cabinet departments?
+37. What are cabinet departments?
 
-What did the spoils system do?
+38. What did the spoils system do?
 
-What is the opinion of the Court called when all Supreme Court justices agree to it?
+39. What is the opinion of the Court called when all Supreme Court justices agree to it?
 
-The 4 freedoms include what? 
+40. The 4 freedoms include what? 
 
-Which of these practices has the Supreme Court judged to be constitutional?
+40. Which of these practices has the Supreme Court judged to be constitutional?
 
-In Schenck v. United States (1919), the Supreme Court ruled that the government could limit speech under what special circumstances?
+1. In Schenck v. United States (1919), the Supreme Court ruled that the government could limit speech under what special circumstances?
 
-In United States v. Lopez (1995), the court said that Congress could not ban firearms in schools because ________. 
+1. In United States v. Lopez (1995), the court said that Congress could not ban firearms in schools because ________. 
 
-According to the Fifth Amendment, when can an accused criminal be forced to testify against him or herself?
+1. According to the Fifth Amendment, when can an accused criminal be forced to testify against him or herself?
 
-When can illegally obtained evidence be used?
+1. When can illegally obtained evidence be used?
 
-What does incorporation mean?
+1. What does incorporation mean?
 
-Government is defined as: 
+1. Government is defined as: 
 
-Which of the following is the best description of federalism? 
+1. Which of the following is the best description of federalism? 
 
-What powers are reserved to the states?
+1. What powers are reserved to the states?
 
-The main responsibility for resolving conflicts between the states and the federal government lies with which of the following?
+1. The main responsibility for resolving conflicts between the states and the federal government lies with which of the following?
 
 ## Amendments
-Tell me what they all are: 1, 2, 3, 5, 7, 8, 10,13, 14, 16, 18, 19, 20, 21, 24, 25, 26, 27			
+Tell me what they all are: 1, 2, 3, 5, 7, 8, 10, 13, 14, 16, 18, 19, 20, 21, 24, 25, 26, 27			
 
-Define: 
+Article 6: (**Supremecy Clause**) The constitution is power
+
+
+## Define: 
 
 Plessy v. Ferguson
 
